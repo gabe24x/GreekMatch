@@ -1,0 +1,8 @@
+//
+//  Config.xcconfig
+//  GreekMatch
+//
+//  Created by Gabe De Brito on 2/7/25.
+//
+
+GOOGLE_API_KEY = $(GOOGLE_API_KEY)
